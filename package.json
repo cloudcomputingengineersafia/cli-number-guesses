@@ -1,5 +1,5 @@
 {
-  "name": "cli-number-guesses",
+  "name": "@safia-s2af/cli-number-guesses",
   "version": "1.0.0",
   "description": "This is cli based numbers guessing game",
   "main": "index.js",
